@@ -1,0 +1,16 @@
+# Rename to accounts.yaml and fill in every managed account.
+google:
+  - account_id: "123-456-7890"        # customer ID, dashes ok
+    name: "Incredible Products - Google"
+    client: "Incredible Products"
+  - account_id: "234-567-8901"
+    name: "Sanitred - Google"
+    client: "Sanitred"
+
+meta:
+  - account_id: "1234567890"          # ad account ID, with or without act_ prefix
+    name: "Incredible Products - Meta"
+    client: "Incredible Products"
+  - account_id: "2345678901"
+    name: "Contractor - Smith Coatings"
+    client: "Smith Coatings"

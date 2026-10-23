@@ -1,0 +1,6 @@
+developer_token: PASTE_DEV_TOKEN_FROM_API_CENTER
+client_id: PASTE_FROM_CLIENT_SECRET_JSON
+client_secret: PASTE_FROM_CLIENT_SECRET_JSON
+refresh_token: PASTE_FROM_get_refresh_token_SCRIPT
+login_customer_id: "1943305382"
+use_proto_plus: true

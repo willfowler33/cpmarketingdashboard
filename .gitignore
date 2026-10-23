@@ -1,0 +1,21 @@
+# Secrets & credentials — never commit
+.env
+google-ads.yaml
+gmail_token.json
+client_secret*.json
+*token*.json
+
+# Data & runtime
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+accounts.yaml
+*.log
+*.err
+.rebuild.lock
+
+# Python
+venv/
+__pycache__/
+*.pyc
